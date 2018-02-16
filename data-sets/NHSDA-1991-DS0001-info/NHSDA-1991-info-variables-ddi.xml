@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE codeBook
+SYSTEM "http://www.icpsr.umich.edu/files/DDI/Version2-1.dtd">
+    <codeBook>
+        <docDscr>
+            <citation>
+                <titlStmt>
+                    <titl>National Household Survey on Drug Abuse, 1991</titl>
+                    <IDNo>6128</IDNo>
+                </titlStmt>
+                <prodStmt>
+                    <producer abbr="ICPSR">
+                        <ExtLink URI="http://www.icpsr.umich.edu/images/icpsr-logo.gif" title="ICPSR Logo" role="image"/>
+                        Inter-university Consortium for Political and Social Research
+                        <ExtLink URI="http://www.icpsr.umich.edu/" title="URL of ICPSR Web Site" />
+                    </producer>
+                </prodStmt>
+                <verStmt>
+                    <version date="2015-02-03"></version>
+                </verStmt>
+                <holdings URI="http://www.icpsr.umich.edu/xmldocs/STUDY/06128.xml"></holdings>
+            </citation>
+        </docDscr>
+        <stdyDscr>
+            <citation>
+                <titlStmt>
+                    <titl>National Household Survey on Drug Abuse, 1991</titl>
+                    <altTitl>NHSDA 1991</altTitl>
+                    <IDNo agency="ICPSR">6128</IDNo>
+                </titlStmt>
+                <rspStmt>
+                    <AuthEnty affiliation="United States Department of Health and Human Services. National Institutes of Health. National Institute on Drug Abuse">United States Department of Health and Human Services. National Institutes of Health. National Institute on Drug Abuse</AuthEnty>
+                </rspStmt>
+                <prodStmt>
+                    <copyright>
+                        Some instruments administered as part of this
+                        study may contain contents from copyrighted
+                        instruments. Reproductions of the instruments
+                        are provided solely as documentation for
+                        the analysis of the data associated with this
+                        collection. Please contact the data producers for
+                        information on permissions to use the instruments
+                        for other purposes.
+                    </copyright>
+                    <prodDate>Please see full citation.</prodDate>
+                    <fundAg>United States Department of Health and Human Services. Office of Public Health and Science</fundAg>
+                    <fundAg>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration</fundAg>
+                    <grantNo>271-90-5401</grantNo>
+                </prodStmt>
+                <distStmt>
+                    <distrbtr abbr="ICPSR" affiliation="Institute for Social Research, University of Michigan" URI="http://www.icpsr.umich.edu">
+                        <ExtLink URI="http://www.icpsr.umich.edu/images/icpsr-logo.gif" title="Logo" />
+                        Inter-university Consortium for Political and Social Research
+                        <ExtLink URI="http://www.icpsr.umich.edu/" title="URL" />
+                    </distrbtr>
+                    <distDate date="1993-10-11">1993-10-11</distDate>
+                </distStmt>
+                <serStmt>
+                    <serName ID="Series64">National Survey on Drug Use and Health (NSDUH) Series</serName>
+                </serStmt>
+                <verStmt>
+                    <version date="2015-02-03">2015-02-03</version>
+                </verStmt>
+                <verStmt>
+                    <version date="2015-02-03">2015-02-03</version>
+                    <notes>Created a separate Questionnaire PDF that was extracted from the Codebook PDF.</notes>
+                </verStmt>
+                <verStmt>
+                    <version date="2013-06-20">2013-06-20</version>
+                    <notes>Updating xml file to include variable headings and subheadings.</notes>
+                </verStmt>
+                <verStmt>
+                    <version date="2008-08-05">2008-08-05</version>
+                    <notes>New files were added. These files included one or more of the following: Stata setup, SAS transport (CPORT), SPSS system, Stata system, SAS supplemental syntax, and Stata supplemental syntax files, and tab-delimited ASCII data file. The variable CASEID was also added to the dataset.</notes>
+                </verStmt>
+                <verStmt>
+                    <version date="1999-05-12">1999-05-12</version>
+                    <notes>SAS and SPSS data definition statements have been
+updated to include value labels and missing values sections, and
+the appendices have been added to the PDF codebook.</notes>
+                </verStmt>
+                <biblCit>United States Department of Health and Human Services. National Institutes of Health. National Institute on Drug Abuse. National Household Survey on Drug Abuse, 1991. ICPSR06128-v2. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2008-08-05. http://doi.org/10.3886/ICPSR06128.v2</biblCit>
+                <notes>LRECL with SAS and SPSS setup files</notes>
+            </citation>
+            <stdyInfo>
+                    <subject>
+                        <keyword vocab="thesaurus">alcohol abuse</keyword>
+                        <keyword vocab="thesaurus">alcohol consumption</keyword>
+                        <keyword vocab="thesaurus">amphetamines</keyword>
+                        <keyword vocab="thesaurus">barbiturates</keyword>
+                        <keyword vocab="thesaurus">cocaine</keyword>
+                        <keyword vocab="thesaurus">crime</keyword>
+                        <keyword vocab="thesaurus">demographic characteristics</keyword>
+                        <keyword vocab="thesaurus">drug abuse</keyword>
+                        <keyword vocab="thesaurus">drug use</keyword>
+                        <keyword vocab="thesaurus">drugs</keyword>
+                        <keyword vocab="thesaurus">hallucinogens</keyword>
+                        <keyword vocab="thesaurus">heroin</keyword>
+                        <keyword vocab="thesaurus">households</keyword>
+                        <keyword vocab="thesaurus">inhalants</keyword>
+                        <keyword vocab="thesaurus">marijuana</keyword>
+                        <keyword vocab="thesaurus">methamphetamine</keyword>
+                        <keyword vocab="thesaurus">prescription drugs</keyword>
+                        <keyword vocab="thesaurus">sedatives</keyword>
+                        <keyword vocab="thesaurus">smoking</keyword>
+                        <keyword vocab="thesaurus">stimulants</keyword>
+                        <keyword vocab="thesaurus">substance abuse</keyword>
+                        <keyword vocab="thesaurus">substance abuse treatment</keyword>
+                        <keyword vocab="thesaurus">tobacco use</keyword>
+                        <keyword vocab="thesaurus">tranquilizers</keyword>
+                        <keyword vocab="thesaurus">youths</keyword>
+                        <topcClas source="archive" vocab="ICPSR subject classifications">ICPSR XVII.E. Social Institutions and Behavior, Crime and the Criminal Justice System</topcClas>
+                        <topcClas source="archive" vocab="NACJD subject classifications">NACJD XI. Drugs, Alcohol, and Crime</topcClas>
+                        <topcClas source="archive" vocab="NAHDAP subject classifications">NAHDAP I. National Addiction and HIV Data Archive Program</topcClas>
+                        <topcClas source="archive" vocab="RCMD subject classifications">RCMD I. Crime</topcClas>
+                        <topcClas source="archive" vocab="RCMD subject classifications">RCMD V. Health and Well-Being</topcClas>
+                        <topcClas source="archive" vocab="SAMHDA subject classifications">SAMHDA I. National Survey on Drug Use and Health (NSDUH)</topcClas>
+                    </subject>
+                    <abstract>This series measures the prevalence and correlates of drug
+use in the United States. The surveys are designed to provide
+quarterly, as well as annual, estimates. Information is provided on
+the use of illicit drugs, alcohol, anabolic steroids, and tobacco
+among members of United States households aged 12 and older. Data are
+also provided on treatment for drug use and on illegal activities
+related to drug use. Questions include age at first use, as well as
+lifetime, annual, and past-month usage for the following drug classes:
+marijuana, inhalants, cocaine, hallucinogens, heroin, alcohol, tobacco,
+and nonmedical use of psychotherapeutics. Respondents were also asked
+about problems resulting from their use of drugs, alcohol, and
+tobacco, their perceptions of the risks involved, insurance coverage,
+and personal and family income sources and amounts. Demographic data
+include gender, race, ethnicity, educational level, job status, income
+level, household composition, and population density.</abstract>
+                    <sumDscr>
+                        <timePrd event="single" date="1991" cycle="P1"> </timePrd>
+                        <nation>Please see geographic coverage.</nation>
+                        <geogCover>United States</geogCover>
+                        <anlyUnit>individual</anlyUnit>
+                        <universe>The noninstitutionalized civilian population of the United
+States, aged 12 and older.</universe>
+                        <dataKind>survey data</dataKind>
+                    </sumDscr>
+            </stdyInfo>
+            <method>
+                <dataColl>
+                    <sampProc>Multistage area sample design with oversampling of six
+Metropolitan Statistical Areas of special interest: Washington, DC,
+New York City, Miami, Chicago, Denver, and Los Angeles. Minorities and
+youths aged 12-17 were also oversampled.</sampProc>
+                    <sources>
+                        <dataSrc>personal interviews, including self-enumerated answer
+sheets for questions on drugs</dataSrc>
+                    </sources>
+                    <weight>Data were weighted based on the
+three stages of sampling that were used. Adjustments were made to compensate for nonresponse and
+sampling error. Adjustments also included trimming sample weights to
+reduce excessive weight variation and a post-stratification to Census
+population estimates. The final weight variable to be used in analysis is ANALWT.</weight>
+                    <cleanOps>Performed consistency checks.</cleanOps>
+                    <cleanOps>Standardized missing values.</cleanOps>
+                    <cleanOps>Created online analysis version with question text.</cleanOps>
+                    <cleanOps>Checked for undocumented or out-of-range codes.</cleanOps>
+                </dataColl>
+                <notes>Data were collected by Research Triangle
+Institute, Research Triangle Park, NC, and prepared for release by
+National Opinion Research Center, Chicago, IL.</notes>
+                <notes>For selected
+variables, statistical imputation was performed following logical
+imputation to replace missing responses. Unique code values (7, 8, or
+9) were assigned to the recency-of-use variable when such logical
+imputation occurred. These code values are readily identifiable by the
+phrase "... LOGICALLY IMPUTED" in the code value descriptions. For
+those recency-of-use variables with missing data for which no
+indication of use of the drug could be found by examination of all
+relevant variables in the record, a code value of 91 ("Never Used")
+was assigned if there were one or more indications of such nonuse in
+the set of relevant variables.</notes>
+                <notes>To protect the anonymity of respondents, all
+variables that could be used to identify individuals have been deleted
+from the public use file.</notes>
+                <notes>For some drugs that have multiple names, questions regarding the use of that drug may be asked for each distinct name. For example, even though methamphetamine, methedrine and desoxyn are the same drug, their use was measured in three separate variables.</notes>
+                <anlyInfo>
+                    <respRate>Strategies for ensuring high rates of participation resulted in
+an interview response rate of 84.2 percent. Of the 32,594 completed
+interviews, 16,628 were with Whites and other (i.e., non-Hispanic,
+non-Blacks), 8,050 were with (non-Hispanic) Blacks, and 7,916 were
+with Hispanics. Approximately 7 percent (2,190) of the interviews were
+conducted using the Spanish version of the questionnaire. The
+completed interviews represented a 96.5 percent completion rate for
+screening sample households and an 84.2 percent for interviewing sample
+individuals. The response rates for these three racial/ethnic groups
+were 82.3 percent for Whites and others, 85.1 percent for Blacks, and 87.3 percent for
+Hispanics.</respRate>
+                </anlyInfo>
+            </method>
+            <dataAccs>
+                <setAvail media="online">
+                    <accsPlac URI="http://www.icpsr.umich.edu">Ann Arbor, Mi.:  Inter-university Consortium for Political and Social Research</accsPlac>
+                    <notes>Stata system file(s), sav Data file(s), stc Data file(s), tsv Data file(s), Data file(s), and electronic documentation.</notes>
+                </setAvail>
+                <useStmt>
+                    <specPerm>Additional special permissions, where applicable, are described in the restrictions field.</specPerm>
+                    <restrctn>Users are reminded by the United States Department of Health and Human Services that these data are to be used solely for statistical analysis and reporting of aggregated information and not for the investigation of specific individuals or treatment facilities.</restrctn>
+
+		<conditions>
+		    <![CDATA[
+		    <p>Please read the Terms of Use below. If you agree to them, click on the "I Agree" button to proceed. If you do not agree, you can click on the "I Do Not Agree" button to exit this page.</p><p>These data are distributed under the following terms of use. By continuing past this point to the data retrieval process, you signify your agreement to comply with the requirements as stated below:</p><h2>Privacy of RESEARCH SUBJECTS</h2><p>Any intentional identification of a RESEARCH SUBJECT (whether an individual or an organization) or unauthorized disclosure of his or her confidential information violates the PROMISE OF CONFIDENTIALITY given to the providers of the information. Disclosure of confidential information may also be punishable under federal law. Therefore, users of data agree:</p><ul><li><p>To use these datasets solely for research or statistical purposes and not for re-identification of specific RESEARCH SUBJECTS.</p></li><li><p>To make no use of the identity of any RESEARCH SUBJECT discovered inadvertently and to report any such discovery to CBHSQ and SAMHDA ( <a href="mailto:samhda-support@icpsr.umich.edu">samhda-support@icpsr.umich.edu</a>)</p></li></ul><h2>Citing Data</h2><p>You agree to reference the recommended bibliographic citation in any of your publications that use SAMHSA data. Authors of publications that use SAMHSA data are required to send citations of their published works to ICPSR for inclusion in a database of related publications (<a href="mailto:bibliography@icpsr.umich.edu">bibliography@icpsr.umich.edu</a>).</p><h2>Disclaimer</h2><p>You acknowledge that SAMHSA and ICPSR will bear no responsibility for your use of the data or for your interpretations or inferences based upon such uses.</p><h2>Violations</h2><p>If SAMHSA or ICPSR determines that this terms of use agreement has been violated, then possible sanctions could include:</p><ul><li><p>Report of the violation to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of the user's institution. A range of sanctions are available to institutions including revocation of tenure and termination.</p></li><li><p>If the confidentiality of human subjects has been violated, then report of the violation may be made to the Federal Office for Human Research Protections. This may result in an investigation of the user's institution, which can result in institution-wide sanctions including the suspension of all research grants.</p></li> <li><p>Report of the violation of federal law to the United States Attorney General for possible prosecution.</p></li><li><p>Court awarded payments of damages to any individual(s)/organization(s) harmed by the breach of confidential data.</p></li></ul> <h2>Definitions</h2><dl><dt>CBHSQ</dt><dd>Center for Behavioral Health Statistics and Quality</dd><dt>ICPSR</dt><dd>Inter-university Consortium for Political and Social Research</dd><dt>Promise of confidentiality</dt><dd>A promise to a respondent or research participant that the information the respondent provides will not be disseminated in identifiable form without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. In most cases, federal law protects the confidentiality of the respondent's identity as referenced in the Promise of Confidentiality. Under this condition, names and other identifying information regarding respondents would be confidential.</dd><dt>Research subject</dt><dd>A person or organization that participates in a research study. A research subject may also be called a respondent. A respondent is generally a survey respondent or informant, experimental or observational subject, focus group participant, or any other person providing information to a study.</dd> <dt>SAMHDA</dt><dd>Substance Abuse and Mental Health Data Archive</dd><dt>SAMHSA</dt><dd>Substance Abuse and Mental Health Services Administration</dd></dl>
+		    ]]>
+		    <p>AVAILABLE.  This study is freely available to the general public.</p>
+		</conditions>
+
+		<disclaimer>The original collector of the data, ICPSR,
+		and the relevant funding agency bear no responsibility
+		for use of the data or for interpretations or inferences
+		based upon such uses.  </disclaimer>
+                    </useStmt>
+            </dataAccs>
+            <othrStdyMat>
+                <othRefs>
+                    <citation>
+                        <titlStmt>
+                            <titl>National Household Survey on Drug Abuse, 1991</titl>
+                        </titlStmt>
+                        <holdings>SDA Component</holdings>
+                    </citation>
+                </othRefs>
+            </othrStdyMat>
+        </stdyDscr>
+        <fileDscr ID="F1">
+            <fileTxt ID="Part1">
+                <fileName>National Household Survey on Drug Abuse, 1991</fileName>
+                <fileType>ASCII ASCSAS ASCSPSS ASCSTATA DELIMITED DOC SAS SPSS STATA</fileType>
+            </fileTxt>
+            <notes>530683</notes>
+        </fileDscr>
+    </codeBook>

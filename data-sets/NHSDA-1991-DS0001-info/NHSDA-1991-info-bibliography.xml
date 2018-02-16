@@ -1,0 +1,2666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE records SYSTEM "http://www.icpsr.umich.edu/files/dtd/RSXML.dtd">
+<records>
+		 <record>
+			<rec-number>111989</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Prue, Bob</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Prevalence of reported peyote use 1985-2010 effects of the American Indian Religious Freedom Act of 1994</title> 
+		        	<secondary-title>American Journal on Addictions</secondary-title>
+			</titles>
+			<pages>156-161</pages>
+			<volume>23</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>Mar-Apr 2014</date>
+				</pub-dates>
+			</dates>
+			<isbn>1055-0496</isbn>
+			<electronic-resource-num>10.1111/j.1521-0391.2013.12083.x</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1111/j.1521-0391.2013.12083.x</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>107359</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Miech, Richard</author>
+						<author>Bohnert, Amy</author>
+						<author>Heard, Kennon</author>
+						<author>Boardman, Jason</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Increasing use of nonmedical analgesics among younger cohorts in the United States: A birth cohort effect</title> 
+		        	<secondary-title>Journal of Adolescent Health</secondary-title>
+			</titles>
+			<pages>35-41</pages>
+			<volume>52</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2013</year>
+				<pub-dates>
+					<date>Jan 2013</date>
+				</pub-dates>
+			</dates>
+			<isbn>1054-139X</isbn>
+			<electronic-resource-num>10.1016/j.jadohealth.2012.07.016</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/j.jadohealth.2012.07.016</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>109632</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Keyes, Katherine M.</author>
+						<author>Miech, Richard</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Age, period, and cohort effects in heavy episodic drinking in the US from 1985 to 2009</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>140-148</pages>
+			<volume>132</volume>
+			<issue>1-2</issue>
+			<dates>
+				<year>2013</year>
+				<pub-dates>
+					<date>Sep 2013</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/j.drugalcdep.2013.01.019</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/j.drugalcdep.2013.01.019</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>111661</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Miech, Richard A.</author>
+						<author>London, Andrew S.</author>
+						<author>Wilmoth, Janet M.</author>
+						<author>Koester, Stephen</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The effects of the military&#039;s antidrug policies over the life course: The case of past-year hallucinogen use</title> 
+		        	<secondary-title>Substance Use and Misuse</secondary-title>
+			</titles>
+			<pages>837-853</pages>
+			<volume>48</volume>
+			<issue>10</issue>
+			<dates>
+				<year>2013</year>
+				<pub-dates>
+					<date>Jul 2013</date>
+				</pub-dates>
+			</dates>
+			<isbn>1082-6084</isbn>
+			<electronic-resource-num>10.3109/10826084.2013.800120</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/10826084.2013.800120</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>103323</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Miech, Richard</author>
+						<author>Koester, Stephen</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in U.S., past-year marijuana use from 1985 to 2009: An age-period-cohort analysis</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>259-267</pages>
+			<volume>124</volume>
+			<issue>3</issue>
+			<dates>
+				<year>2012</year>
+				<pub-dates>
+					<date>Aug 2012</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/j.drugalcdep.2012.01.020</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/j.drugalcdep.2012.01.020</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>108260</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Nguyen, Holly</author>
+						<author>Reuter, Peter</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>How risky is marijuana possession? Considering
+the role of age, race, and gender</title> 
+		        	<secondary-title>Crime and Delinquency</secondary-title>
+			</titles>
+			<pages>879-910</pages>
+			<volume>58</volume>
+			<issue>6</issue>
+			<dates>
+				<year>2012</year>
+				<pub-dates>
+					<date>Nov 2012</date>
+				</pub-dates>
+			</dates>
+			<isbn>0011-1287</isbn>
+			<electronic-resource-num>10.1177/0011128712461122</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1177/0011128712461122</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>93581</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Chen, Chiung M.</author>
+						<author>Yi, Hsiao-ye</author>
+						<author>Williams, Gerald D.</author>
+						<author>Faden, Vivian B.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in Underage Drinking in the United States, 1991-2009</title> 
+			</titles>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>Mar 2011</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>United States Department of Health and Human Services, National Institute on Alcohol Abuse and Alcoholism</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://pubs.niaaa.nih.gov/publications/surveillance91/Underage09.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>95177</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Muhuri, Pradip K.</author>
+						<author>Gfroerer, Joseph C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Mortality associated with illegal drug use among adults in the United States</title> 
+		        	<secondary-title>American Journal of Drug and Alcohol Abuse</secondary-title>
+			</titles>
+			<pages>155-164</pages>
+			<volume>37</volume>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>2011</date>
+				</pub-dates>
+			</dates>
+			<isbn>0095-2990</isbn>
+			<electronic-resource-num>10.3109/00952990.2011.553977</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/00952990.2011.553977</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>99314</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Chen, Xinguang</author>
+						<author>Lin, Feng</author>
+						<author>Stanton, Bonita</author>
+						<author>Zhang, Xun</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>APC modeling of smoking prevalence among US adolescents and young adults</title> 
+		        	<secondary-title>American Journal of Health Behavior</secondary-title>
+			</titles>
+			<pages>416-427</pages>
+			<volume>35</volume>
+			<issue>4</issue>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>Jul-Aug 2011</date>
+				</pub-dates>
+			</dates>
+			<isbn>1087-3244</isbn>
+			<electronic-resource-num>10.5993/AJHB.35.4.4</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.5993/AJHB.35.4.4</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>73229</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>The White House</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Drug Control Strategy: Data Supplement 2009</title> 
+			</titles>
+			<issue>NCJ 225448</issue>
+			<dates>
+				<year>2009</year>
+				<pub-dates>
+					<date>Jan 2009</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>Office of National Drug Control Policy</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>77682</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Grucza, Richard A.</author>
+						<author>Norberg, Karen E.</author>
+						<author>Bierut, Laura J.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Binge drinking among youths and young adults in the United States: 1979-2006</title> 
+		        	<secondary-title>Journal of the American Academy of Child and Adolescent Psychiatry</secondary-title>
+			</titles>
+			<pages>692-702</pages>
+			<volume>48</volume>
+			<issue>7</issue>
+			<dates>
+				<year>2009</year>
+				<pub-dates>
+					<date>Jul 2009</date>
+				</pub-dates>
+			</dates>
+			<isbn>0890-8567</isbn>
+			<electronic-resource-num>10.1097/CHI.0b013e3181a2b32f</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1097/CHI.0b013e3181a2b32f</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>85054</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Chen, Chiung M.</author>
+						<author>Yi, Hsiao-ye</author>
+						<author>Faden, Vivian B.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in Underage Drinking in the U.S., 1991-2007</title> 
+		        	<secondary-title>Alcohol Epidemiologic Data System Surveillance Reports #86</secondary-title>
+			</titles>
+			<dates>
+				<year>2009</year>
+				<pub-dates>
+					<date>Jan 2009</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>United States Department of Health and Human Services, National Institute on Alcohol Abuse and Alcoholism</publisher>
+		</record>
+		 <record>
+			<rec-number>77872</rec-number>
+			<ref-type name="Conference Proceedings"></ref-type>
+			<contributors>
+				<authors>
+						<author>Zhang, Zhiwei, Cohen, Michael</author>
+						<author>Wright, Douglas</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Intra-class Correlation Patterns of Cognitive and Behavioral Measures of Illicit Drug Uses and Acquisitions within Six Major Metropolitan Areas</title> 
+		        	<secondary-title>Proceedings of Survey Research Method Section, Joint Statistical Meetings, Denver 2008</secondary-title>
+			</titles>
+			<dates>
+				<year>2008</year>
+				<pub-dates>
+					<date>2008</date>
+				</pub-dates>
+			</dates>
+			<publisher>American Statistical Association</publisher>
+				<meeting-place>Alexandria, VA</meeting-place>
+				<urls>
+						<pdf-urls>
+							<url>http://www.amstat.org/sections/srms/Proceedings/y2008/Files/302693.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>48387</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Roy, Suryadipta</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Are Illegal Drugs Inferior Goods in the US?</title> 
+		        	<secondary-title>Atlantic Economic Journal</secondary-title>
+			</titles>
+			<pages>303-314</pages>
+			<volume>35</volume>
+			<issue>3</issue>
+			<dates>
+				<year>2007</year>
+				<pub-dates>
+					<date>Sep 2007</date>
+				</pub-dates>
+			</dates>
+			<isbn>0197-4254</isbn>
+			<electronic-resource-num>10.1007/s11293-007-9071-0</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1007/s11293-007-9071-0</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>102043</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Harder, Valerie S.</author>
+						<author>Chilcoat, Howard D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Cocaine use and educational achievement: Understanding a changing association over the past 2 decades</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>1790-1793</pages>
+			<volume>97</volume>
+			<issue>10</issue>
+			<dates>
+				<year>2007</year>
+				<pub-dates>
+					<date>Oct 2007</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.2006.091108</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.2006.091108</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>44860</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Pollack, Harold A.</author>
+						<author>Reuter, Peter</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Welfare receipt and substance-abuse treatment among low-income mothers: The impact of welfare reform</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>2024 -</pages>
+			<volume>96</volume>
+			<issue>11</issue>
+			<dates>
+				<year>2006</year>
+				<pub-dates>
+					<date>Nov 2006</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.2004.061762</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.2004.061762</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>45163</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Faden, Vivian B.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in initiation of alcohol use in the United States 1975 to 2003 </title> 
+		        	<secondary-title>Alcoholism: Clinical and Experimental Research</secondary-title>
+			</titles>
+			<pages>1011-1022</pages>
+			<volume>30</volume>
+			<issue>6</issue>
+			<dates>
+				<year>2006</year>
+				<pub-dates>
+					<date>Jun 2006</date>
+				</pub-dates>
+			</dates>
+			<isbn>0145-6008</isbn>
+			<electronic-resource-num>10.1111/j.1530-0277.2006.00115.x</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1111/j.1530-0277.2006.00115.x</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>45528</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Substance Abuse and Mental Health Services Administration</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Survey on Drug Use and Health: Summary of Methodological Studies,1971-2005</title> 
+		        	<secondary-title>Methodology Series M-6</secondary-title>
+			</titles>
+			<issue>SMA 06-4146</issue>
+			<dates>
+				<year>2006</year>
+				<pub-dates>
+					<date>Sep 2006</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Office of Applied Studies</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.oas.samhsa.gov/methodsHY/NSmethods.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>93353</rec-number>
+			<ref-type name="Book Section"></ref-type>
+			<contributors>
+				<authors>
+						<author>Sloboda, Zili</author>
+				</authors>
+					<secondary-authors>
+							<author>Bukoski, William J.</author>
+							<author>Sloboda, Zili</author>
+					</secondary-authors>
+			</contributors>
+			<titles>
+				<title>Chapter 12: Forging a relationship between drug abuse epidemiology and drug abuse prevention</title> 
+		        	<secondary-title>Handbook of Drug Abuse Prevention: Theory, Science, and Practice</secondary-title>
+			</titles>
+			<pages>245-264</pages>
+			<dates>
+				<year>2006</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<pub-location>New York</pub-location>
+			<publisher>Springer</publisher>
+			<electronic-resource-num>10.1007/0-387-35408-5_12</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1007/0-387-35408-5_12</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>42856</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Office of National Drug Control Policy</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The National Drug Control Strategy: Data Supplement</title> 
+			</titles>
+			<issue>NCJ 213692</issue>
+			<dates>
+				<year>2005</year>
+				<pub-dates>
+					<date>Mar 2005</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>Executive Office of the President of the United States</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.whitehousedrugpolicy.gov/publications/policy/ndcs06_data_supl/</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>45019</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Golub, Andrew</author>
+						<author>Johnson, Bruce D.</author>
+						<author>Dunlap, Eloise</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The growth in marijuana use among American youths during the 1990s and the extent of blunt smoking</title> 
+		        	<secondary-title>Journal of Ethnicity in Substance Abuse</secondary-title>
+			</titles>
+			<pages>1-21</pages>
+			<volume>4</volume>
+			<issue>3-4</issue>
+			<dates>
+				<year>2005</year>
+				<pub-dates>
+					<date>2005</date>
+				</pub-dates>
+			</dates>
+			<isbn>1533-2640</isbn>
+			<electronic-resource-num>10.1300/J233v04n03_01</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1300/J233v04n03_01</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>48411</rec-number>
+			<ref-type name="Thesis"></ref-type>
+			<contributors>
+				<authors>
+						<author>Roy, Suryadipta</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trade and Special Interest Politics, Enforcement Policy and Illegal Drugs: Three Essays</title> 
+			</titles>
+			<dates>
+				<year>2005</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<publisher>West Virginia University</publisher>
+				<work-type>Dissertation</work-type>
+		</record>
+		 <record>
+			<rec-number>28047</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Simoni-Wastila, Linda</author>
+						<author>Ritter, Grant</author>
+						<author>Strickler, Gail</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Gender and Other Factors Associated with the Nonmedical Use of Abusable Prescription Drugs</title> 
+		        	<secondary-title>Substance Use and Misuse</secondary-title>
+			</titles>
+			<pages>1-23</pages>
+			<volume>39</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2004</year>
+				<pub-dates>
+					<date>Jan 2004</date>
+				</pub-dates>
+			</dates>
+			<isbn>1082-6084</isbn>
+			<electronic-resource-num>10.1081/JA-120027764</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1081/JA-120027764</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>34407</rec-number>
+			<ref-type name="Thesis"></ref-type>
+			<contributors>
+				<authors>
+						<author>Braunschweig, Heidi Michelle</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The aging of the &#039;baby boom&#039; generation: The potential for increased alcohol use and the need for concern</title> 
+			</titles>
+			<dates>
+				<year>2004</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<publisher>Case Western Reserve University</publisher>
+				<work-type>Dissertation</work-type>
+		</record>
+		 <record>
+			<rec-number>33481</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Simoni-Wastila, Linda</author>
+						<author>Strickler, Gail</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Risk factors associated with problem use of prescription drugs</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>266-268</pages>
+			<volume>94</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2004</year>
+				<pub-dates>
+					<date>Feb 2004</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.94.2.266</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.94.2.266</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>35936</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Faden, Vivian B.</author>
+						<author>Fay, Michael P.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in drinking among Americans age 18 and younger: 1975-2002</title> 
+		        	<secondary-title>Alcoholism: Clinical and Experimental Research</secondary-title>
+			</titles>
+			<pages>1388-1395</pages>
+			<volume>28</volume>
+			<issue>9</issue>
+			<dates>
+				<year>2004</year>
+				<pub-dates>
+					<date>Sep 2004</date>
+				</pub-dates>
+			</dates>
+			<isbn>0145-6008</isbn>
+			<electronic-resource-num>10.1097/01.ALC.0000139820.04539.BD</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1097/01.ALC.0000139820.04539.BD</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>33495</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Petronis, K.R.</author>
+						<author>Anthony, J.C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>A different kind of contextual effect: Geographical clustering of cocaine incidence in the USA</title> 
+		        	<secondary-title>Journal of Epidemiology and Community Health</secondary-title>
+			</titles>
+			<pages>893-900</pages>
+			<volume>57</volume>
+			<issue>11</issue>
+			<dates>
+				<year>2003</year>
+				<pub-dates>
+					<date>Nov 2003</date>
+				</pub-dates>
+			</dates>
+			<isbn>0143-005X</isbn>
+			<electronic-resource-num>10.1136/jech.57.11.893</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1136/jech.57.11.893</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>6234</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Chen, Kevin</author>
+						<author>Kandel, Denise</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Relationship between extent of cocaine use and dependence among adolescents and adults in the United States</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>65-85</pages>
+			<volume>68</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date>Sep 2002</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(02)00086-8</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(02)00086-8</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>12044</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Golub, Andrew</author>
+						<author>Johnson, Bruce D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The misuse of the &#039;Gateway Theory&#039; in US policy on drug abuse control: A secondary analysis of the muddled deduction</title> 
+		        	<secondary-title>International Journal of Drug Policy</secondary-title>
+			</titles>
+			<pages>5-19</pages>
+			<volume>13</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date>May 2002</date>
+				</pub-dates>
+			</dates>
+			<isbn>0955-3959</isbn>
+			<electronic-resource-num>10.1016/S0955-3959(01)00111-6</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0955-3959(01)00111-6</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>23291</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>O&#039;Malley, Patrick M.</author>
+						<author>Johnston, Lloyd D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Epidemiology of alcohol and other drug use among American college students</title> 
+		        	<secondary-title>Journal of Studies on Alcohol</secondary-title>
+			</titles>
+			<pages>23-39</pages>
+			<volume>63</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date>Mar 2002</date>
+				</pub-dates>
+			</dates>
+			<isbn>0096-882X</isbn>
+		</record>
+		 <record>
+			<rec-number>24696</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Pollack, Harold A.</author>
+						<author>Danziger, Sheldon</author>
+						<author>Seefeldt, Kristin S.</author>
+						<author>Jayakody, Rukmalie</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Substance use among welfare recipients</title> 
+		        	<secondary-title>Social Service Review</secondary-title>
+			</titles>
+			<pages>256-274</pages>
+			<volume>76</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date>Jun 2002</date>
+				</pub-dates>
+			</dates>
+			<isbn>0037-7961</isbn>
+			<electronic-resource-num>10.1086/339669</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1086/339669</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>24389</rec-number>
+			<ref-type name="Thesis"></ref-type>
+			<contributors>
+				<authors>
+						<author>Petronis, Kenneth Robert</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Clusters of cocaine use in United States neighborhoods</title> 
+			</titles>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<publisher>Johns Hopkins University</publisher>
+				<work-type>Dissertation</work-type>
+		</record>
+		 <record>
+			<rec-number>32018</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Wilcox, Holly C.</author>
+						<author>Wagner, Fernando A.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Exposure opportunity as a mechanism linking youth marijuana use to hallucinogen use</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>127-135</pages>
+			<volume>66</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date>Apr 2002</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(01)00191-0</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(01)00191-0</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>106071</rec-number>
+			<ref-type name="Book Section"></ref-type>
+			<contributors>
+				<authors>
+						<author>Golub, Andrew</author>
+						<author>Johnson, Bruce D.</author>
+				</authors>
+					<secondary-authors>
+							<author>Kandel, Denise B.</author>
+					</secondary-authors>
+			</contributors>
+			<titles>
+				<title>Substance use progression and hard drug use in inner-city New York</title> 
+		        	<secondary-title>Stages and Pathways of Drug Involvement: Examining the Gateway Hypothesis</secondary-title>
+			</titles>
+			<pages>90</pages>
+			<dates>
+				<year>2002</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<pub-location>Cambridge, UK</pub-location>
+			<publisher>Cambridge University Press</publisher>
+		</record>
+		 <record>
+			<rec-number>9933</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Farrelly, Matthew C.</author>
+						<author>Bray, Jeremy W.</author>
+						<author>Zarkin, Gary A.</author>
+						<author>Wendling, B.W.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The joint demand for cigarettes and marijuana: Evidence from the National Household Surveys on Drug Abuse</title> 
+		        	<secondary-title>Journal of Health Economics</secondary-title>
+			</titles>
+			<pages>51-68</pages>
+			<volume>20</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2001</year>
+				<pub-dates>
+					<date>Jan 2001</date>
+				</pub-dates>
+			</dates>
+			<isbn>0167-6296</isbn>
+			<electronic-resource-num>10.1016/S0167-6296(00)00067-9</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0167-6296(00)00067-9</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>12045</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Golub, Andrew</author>
+						<author>Johnson, Bruce D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Variation in youthful risks of progression from alcohol and tobacco to marijuana and to hard drugs across generations</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>225-232</pages>
+			<volume>91</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2001</year>
+				<pub-dates>
+					<date>Feb 2001</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.91.2.225</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.91.2.225</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>16379</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Kandel, Denise B.</author>
+						<author>Griesler, Pamela C.</author>
+						<author>Lee, Gang</author>
+						<author>Davies, Mark</author>
+						<author>Schaffran, Christine</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Parental influences on adolescent marijuana use and the baby boom generation: Findings from the 1979-1996 National Household Surveys on Drug Abuse</title> 
+		        	<secondary-title>NHSDA Series</secondary-title>
+			</titles>
+			<issue>(SMA) 01-3531</issue>
+			<dates>
+				<year>2001</year>
+				<pub-dates>
+					<date>Jul 2001</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>United States Department of Health and Human Services, Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<web-urls>
+								<url>http://archive.samhsa.gov/data/NHSDA/BabyBoom/TOC.htm</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>26648</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Saffer, Henry</author>
+						<author>Chaloupka, Frank J.</author>
+						<author>Dave, Dhaval</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>State drug control spending and illicit drug participation</title> 
+		        	<secondary-title>Contemporary Economic Policy</secondary-title>
+			</titles>
+			<pages>150-161</pages>
+			<volume>19</volume>
+			<issue>2</issue>
+			<dates>
+				<year>2001</year>
+				<pub-dates>
+					<date>Apr 2001</date>
+				</pub-dates>
+			</dates>
+			<isbn>1074-3529</isbn>
+			<electronic-resource-num>10.1093/cep/19.2.150</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1093/cep/19.2.150</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>30758</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Van Etten, Michelle L.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Male-female differences in transitions from first drug opportunity to first use: Searching for subgroup variation by age, race, region, and urban status</title> 
+		        	<secondary-title>Journal of Women&#039;s Health and Gender-Based Medicine</secondary-title>
+			</titles>
+			<pages>797-804</pages>
+			<volume>10</volume>
+			<issue>8</issue>
+			<dates>
+				<year>2001</year>
+				<pub-dates>
+					<date>Oct 2001</date>
+				</pub-dates>
+			</dates>
+			<isbn>1524-6094</isbn>
+			<electronic-resource-num>10.1089/15246090152636550</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1089/15246090152636550</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>4104</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Bobashev, G.V.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Use of alternating logistic regression in studies of drug-use clustering</title> 
+		        	<secondary-title>Substance Use and Misuse</secondary-title>
+			</titles>
+			<pages>1051-1073</pages>
+			<volume>35</volume>
+			<issue>6-8</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>1082-6084</isbn>
+			<electronic-resource-num>10.3109/10826080009148432</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/10826080009148432</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>4612</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Bray, Jeremy W.</author>
+						<author>Zarkin, Gary A.</author>
+						<author>Dennis, M.L.</author>
+						<author>French, Michael T.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Symptoms of dependence, multiple substance use, and labor market outcomes</title> 
+		        	<secondary-title>American Journal of Drug and Alcohol Abuse</secondary-title>
+			</titles>
+			<pages>77-95</pages>
+			<volume>26</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>Feb 2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>0095-2990</isbn>
+			<electronic-resource-num>10.1081/ADA-100100592</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1081/ADA-100100592</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>12040</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Golub, Andrew L.</author>
+						<author>Johnson, Bruce D.</author>
+						<author>Labouvie, Erich</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>On correcting biases in self-reports of age at first substance use with repeated cross-section analysis</title> 
+		        	<secondary-title>Journal of Quantitative Criminology</secondary-title>
+			</titles>
+			<pages>45-68</pages>
+			<volume>16</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>0748-4518</isbn>
+			<electronic-resource-num>10.1023/A:1007573411129</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1023/A:1007573411129</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>16375</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Kandel, Denise B.</author>
+						<author>Chen, Kevin</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Extent of smoking and nicotine dependence in the United States: 1991-1993</title> 
+		        	<secondary-title>Nicotine and Tobacco Research</secondary-title>
+			</titles>
+			<pages>263-274</pages>
+			<volume>2</volume>
+			<issue>3</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>Aug 2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>1462-2203</isbn>
+		</record>
+		 <record>
+			<rec-number>15938</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Johnson, R.A.</author>
+						<author>Gerstein, Dean R.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Age, period, and cohort effects in marijuana and alcohol incidence: United States females and males, 1961-1990</title> 
+		        	<secondary-title>Substance Use and Misuse</secondary-title>
+			</titles>
+			<pages>925-948</pages>
+			<volume>35</volume>
+			<issue>6-8</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>1082-6084</isbn>
+			<electronic-resource-num>10.3109/10826080009148427</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/10826080009148427</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>23892</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Parker, Keith D.</author>
+						<author>Calhoun, Thomas</author>
+						<author>Weaver, Greg</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Variables Associated With Adolescent Alcohol Use: A Multiethnic Comparison</title> 
+		        	<secondary-title>Journal of Social Psychology</secondary-title>
+			</titles>
+			<pages>51-62</pages>
+			<volume>140</volume>
+			<issue>1</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>Feb 2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>0022-4545</isbn>
+			<electronic-resource-num>10.1080/00224540009600445</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1080/00224540009600445</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>24388</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Petronis, Kenneth R.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Perceived risk of cocaine use and experience with cocaine: Do they cluster within US neighborhoods and cities?</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>183-192</pages>
+			<volume>57</volume>
+			<issue>3</issue>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date>Jan 1, 2000</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(99)00047-2</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(99)00047-2</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>48073</rec-number>
+			<ref-type name="Book"></ref-type>
+			<contributors>
+				<authors>
+						<author>Males, Mike</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>&#039;Kids and Guns&#039;: How Politicians, Experts, and the Press Fabricate Fear of Youth</title> 
+			</titles>
+			<dates>
+				<year>2000</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<pub-location>Monroe, MN</pub-location>
+			<publisher>Common Courage Press</publisher>
+		</record>
+		 <record>
+			<rec-number>3415</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Bergen, Andrew W.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Cigarette smoking</title> 
+		        	<secondary-title>Journal of the National Cancer Institute</secondary-title>
+			</titles>
+			<pages>1365-1375</pages>
+			<volume>91</volume>
+			<issue>16</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Aug 18, 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0027-8874</isbn>
+			<electronic-resource-num>10.1093/jnci/91.16.1365</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1093/jnci/91.16.1365</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>9934</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Farrelly, Matthew C.</author>
+						<author>Bray, Jeremy W.</author>
+						<author>Zarkin, Gary A.</author>
+						<author>Wendling, Brett W.</author>
+						<author>Pacula, Rosalie Liccardo</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The effects of prices and policies on the demand for marijuana: Evidence from the National Household Surveys on Drug Abuse</title> 
+		        	<secondary-title>NBER Working Paper Series</secondary-title>
+			</titles>
+			<issue>W6940</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Feb 1999</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Cambridge, MA</pub-location>
+			<publisher>National Bureau of Economic Research</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://papers.nber.org/papers/W6940.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>13150</rec-number>
+			<ref-type name="Thesis"></ref-type>
+			<contributors>
+				<authors>
+						<author>Hamilton, Jay Paul</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Quantity Price Discounts in Illegal Drug Markets</title> 
+			</titles>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<publisher>University of California, Riverside</publisher>
+				<work-type>Dissertation</work-type>
+		</record>
+		 <record>
+			<rec-number>23334</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Obot, Isidore S.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Association of school dropout with recent and past injecting drug use among african american adults</title> 
+		        	<secondary-title>Addictive Behaviors</secondary-title>
+			</titles>
+			<pages>701-705</pages>
+			<volume>24</volume>
+			<issue>5</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Sep 10, 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0306-4603</isbn>
+			<electronic-resource-num>10.1016/S0306-4603(98)00117-8</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0306-4603(98)00117-8</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>23338</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Obot, Isidore Silas</author>
+						<author>Hubbard, Scott</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Level of education and injecting drug use among African Americans</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>177-182</pages>
+			<volume>55</volume>
+			<issue>1-2</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Jun 1, 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(98)00168-9</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(98)00168-9</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>23001</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Nielsen, Amie L.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Testing Sampson and Laub&#039;s life course theory: Age, race/ethnicity, and drunkenness</title> 
+		        	<secondary-title>Deviant Behavior</secondary-title>
+			</titles>
+			<pages>129-151</pages>
+			<volume>20</volume>
+			<issue>2</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Apr/Jun 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0163-9625</isbn>
+			<electronic-resource-num>10.1080/016396299266533</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1080/016396299266533</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>26647</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Saffer, Henry</author>
+						<author>Chaloupka, Frank</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The demand for illicit drugs</title> 
+		        	<secondary-title>Economic Inquiry</secondary-title>
+			</titles>
+			<pages>401-411</pages>
+			<volume>37</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Jul 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0095-2583</isbn>
+			<electronic-resource-num>10.1111/j.1465-7295.1999.tb01439.x</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1111/j.1465-7295.1999.tb01439.x</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>30757</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Van Etten, Michelle L.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Comparative epidemiology of initial drug opportunities and transitions to first use: Marijuana, cocaine, hallucinogens and heroin</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>117-125</pages>
+			<volume>54</volume>
+			<issue>2</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Apr 1, 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(98)00151-3</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(98)00151-3</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>30760</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Van Etten, Michelle L.</author>
+						<author>Neumark, Yehuda D.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Male-female differences in the earliest stages of drug involvement</title> 
+		        	<secondary-title>Addiction</secondary-title>
+			</titles>
+			<pages>1413-1419</pages>
+			<volume>94</volume>
+			<issue>9</issue>
+			<dates>
+				<year>1999</year>
+				<pub-dates>
+					<date>Sep 1999</date>
+				</pub-dates>
+			</dates>
+			<isbn>0965-2140</isbn>
+		</record>
+		 <record>
+			<rec-number>8263</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Delva, J.</author>
+						<author>Furr, C.D.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Personal characteristics associated with injecting drug use among Latinas in the United States of America</title> 
+		        	<secondary-title>Revista Panamericana de Salud Publica / Pan American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>341-345</pages>
+			<volume>4</volume>
+			<issue>5</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Nov 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>1020-4989</isbn>
+		</record>
+		 <record>
+			<rec-number>15956</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Johnson, Robert A.</author>
+						<author>Gerstein, Dean R.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Initiation of use of alcohol, cigarettes, marijuana, cocaine, and other substances in U.S. birth cohorts since 1919</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>27-33</pages>
+			<volume>88</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Jan 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.88.1.27</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.88.1.27</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>15957</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Johnson, Robert A.</author>
+						<author>Gerstein, Dean R.</author>
+						<author>Rasinski, Kenneth A.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Adjusting survey estimates for response bias: An application to trends in alcohol and marijuana use</title> 
+		        	<secondary-title>Public Opinion Quarterly</secondary-title>
+			</titles>
+			<pages>354-377</pages>
+			<volume>62</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Fal 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0033-362X</isbn>
+			<electronic-resource-num>10.1086/297850</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1086/297850</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>18707</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Lennox, Richard D.</author>
+						<author>Steele, Paul D.</author>
+						<author>Zarkin, Gary A.</author>
+						<author>Bray, Jeremy W.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The differential effects of alcohol consumption and dependence on adverse alcohol-related consequences: Implications for the workforce</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>211-220</pages>
+			<volume>50</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>May 1, 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(98)00031-3</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(98)00031-3</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>20670</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>McAuliffe, William E.</author>
+						<author>Geller, Stephanie</author>
+						<author>LaBrie, Richard</author>
+						<author>Paletz, Susannah</author>
+						<author>Fournier, Elizabeth</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Are telephone surveys suitable for studying substance abuse?  Cost, administration, coverage and response rate issues</title> 
+		        	<secondary-title>Journal of Drug Issues</secondary-title>
+			</titles>
+			<pages>455-482</pages>
+			<volume>28</volume>
+			<issue>2</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Spr 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0022-0426</isbn>
+		</record>
+		 <record>
+			<rec-number>22899</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Neumark, Y.D.</author>
+						<author>Delva, J.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The epidemiology of adolescent inhalant drug involvement</title> 
+		        	<secondary-title>Archives of Pediatrics and Adolescent Medicine</secondary-title>
+			</titles>
+			<pages>781-786</pages>
+			<volume>152</volume>
+			<issue>8</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Aug 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>1072-4710</isbn>
+		</record>
+		 <record>
+			<rec-number>26646</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Saffer, Henry</author>
+						<author>Chaloupka, Frank</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Demographic Differentials in the Demand for Alcohol and Illicit Drugs</title> 
+		        	<secondary-title>NBER Working Paper Series</secondary-title>
+			</titles>
+			<issue>6432</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Feb 1998</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Cambridge, MA</pub-location>
+			<publisher>National Bureau of Economic Research</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://papers.nber.org/papers/W6432.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>32991</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Zarkin, Gary A.</author>
+						<author>French, Michael T.</author>
+						<author>Mroz, Thomas A.</author>
+						<author>Bray, Jeremy W.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Alcohol use and wages: New results from the National Household Survey on Drug Abuse</title> 
+		        	<secondary-title>Journal of Health Economics</secondary-title>
+			</titles>
+			<pages>53-68</pages>
+			<volume>17</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Jan 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0167-6296</isbn>
+			<electronic-resource-num>10.1016/S0167-6296(97)00023-4</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0167-6296(97)00023-4</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>32992</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Zarkin, Gary A.</author>
+						<author>Mroz, Thomas A.</author>
+						<author>Bray, Jeremy W.</author>
+						<author>French, Michael T.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The relationship between drug use and labor supply for young men</title> 
+		        	<secondary-title>Labour Economics</secondary-title>
+			</titles>
+			<pages>385-409</pages>
+			<volume>5</volume>
+			<issue>4</issue>
+			<dates>
+				<year>1998</year>
+				<pub-dates>
+					<date>Dec 1998</date>
+				</pub-dates>
+			</dates>
+			<isbn>0927-5371</isbn>
+			<electronic-resource-num>10.1016/S0927-5371(98)00003-7</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0927-5371(98)00003-7</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>6235</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Chen, Kevin</author>
+						<author>Kandel, Denise B.</author>
+						<author>Davies, Mark</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Relationships between frequency and quantity of marijuana use and last year proxy dependence among adolescents and adults in the United States</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>53-67</pages>
+			<volume>46</volume>
+			<issue>1-2</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Jun 6, 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(97)00047-1</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(97)00047-1</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>10618</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Folsom, Ralph E.</author>
+						<author>Judkins, David R.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Substance abuse in states and metropolitan areas model based estimates from the 1991-1993 National Household Surveys on Drug Abuse</title> 
+		        	<secondary-title>NHSDA Methodology Report</secondary-title>
+			</titles>
+			<issue>(SMA) 97-3140</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>1997</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>United States Department of Health and Human Services, Substance Abuse and Mental Health Services Administration</publisher>
+		</record>
+		 <record>
+			<rec-number>11504</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Gfroerer, Joseph C.</author>
+						<author>Greenblatt, Janet C.</author>
+						<author>Wright, Douglas A.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Substance use in the US college-age population: Differences according to educational status and living arrangement</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>62-65</pages>
+			<volume>87</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Jan 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.87.1.62</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.87.1.62</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>16376</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Kandel, Denise B.</author>
+						<author>Chen, Kevin</author>
+						<author>Warner, L.A.</author>
+						<author>Kessler, R.C.</author>
+						<author>Grant, B.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Prevalence and demographic correlates of symptoms of last year dependence on alcohol, nicotine, marijuana and cocaine in the U.S. population</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>11-29</pages>
+			<volume>44</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Jan 10, 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(96)01315-4</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(96)01315-4</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>25843</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Robertson, Elizabeth B.</author>
+						<author>Donnermeyer, Joseph F.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Illegal drug use among rural adults: Mental health consequences and treatment utilization</title> 
+		        	<secondary-title>American Journal of Drug and Alcohol Abuse</secondary-title>
+			</titles>
+			<pages>467-484</pages>
+			<volume>23</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Aug 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0095-2990</isbn>
+			<electronic-resource-num>10.3109/00952999709016890</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/00952999709016890</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>26962</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Scheer, Scott D.</author>
+						<author>Unger, Donald G.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Russian adolescent drug use and comparisons to United States adolescents</title> 
+		        	<secondary-title>Substance Use and Misuse</secondary-title>
+			</titles>
+			<pages>2151-2162</pages>
+			<volume>32</volume>
+			<issue>14</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Dec 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>1082-6084</isbn>
+			<electronic-resource-num>10.3109/10826089709035626</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.3109/10826089709035626</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>30759</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Van Etten, Michelle L.</author>
+						<author>Neumark, Yehuda D.</author>
+						<author>Anthony, James C.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Initial opportunity to use marijuana and the transition to first use: United States, 1979-1994</title> 
+		        	<secondary-title>Drug and Alcohol Dependence</secondary-title>
+			</titles>
+			<pages>1-7</pages>
+			<volume>49</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Dec 30, 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0376-8716</isbn>
+			<electronic-resource-num>10.1016/S0376-8716(97)00127-0</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/S0376-8716(97)00127-0</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>32550</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Woodward, Albert</author>
+						<author>Epstein, Joan F.</author>
+						<author>Gfroerer, Joseph C.</author>
+						<author>Melnick, Daniel</author>
+						<author>Thoreson, Richard</author>
+						<author>Willson, Douglas</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The drug abuse treatment gap: Recent estimates</title> 
+		        	<secondary-title>Health Care Financing Review</secondary-title>
+			</titles>
+			<pages>5-17</pages>
+			<volume>18</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1997</year>
+				<pub-dates>
+					<date>Spr 1997</date>
+				</pub-dates>
+			</dates>
+			<isbn>0195-8631</isbn>
+		</record>
+		 <record>
+			<rec-number>12269</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Graham, Nanette</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The influence of predictors on adolescent drug use: An examination of individual effects</title> 
+		        	<secondary-title>Youth and Society</secondary-title>
+			</titles>
+			<pages>215 -</pages>
+			<volume>28</volume>
+			<issue>2</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>Dec 1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>0044-118X</isbn>
+			<electronic-resource-num>10.1177/0044118X96028002004</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1177/0044118X96028002004</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>11698</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Gilson, Stephen French</author>
+						<author>Chilcoat, Howard D.</author>
+						<author>Stapleton, June M.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Illicit drug use by persons with disabilities: Insights from the National Household Survey on Drug Abuse</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>1613-1615</pages>
+			<volume>86</volume>
+			<issue>11</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>Nov 1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.86.11.1613</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.86.11.1613</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>13478</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Harrison, Lana D.</author>
+						<author>Kennedy, Nancy J.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Drug use in the high intensity drug trafficking area of the US Southwest border</title> 
+		        	<secondary-title>Addiction</secondary-title>
+			</titles>
+			<pages>47-61</pages>
+			<volume>91</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>Jan 1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>0965-2140</isbn>
+			<electronic-resource-num>10.1111/j.1360-0443.1996.tb03161.x</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1111/j.1360-0443.1996.tb03161.x</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>24715</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Pollay, Richard W.</author>
+						<author>Siddarth, S.</author>
+						<author>Siegel, Michael</author>
+						<author>Haddix, Anne</author>
+						<author>Merritt, R.K.</author>
+						<author>Giovino, G.A.</author>
+						<author>Eriksen, M.P.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The last straw? Cigarette advertising and realized market shares among youths and adults, 1979-1993</title> 
+		        	<secondary-title>Journal of Marketing</secondary-title>
+			</titles>
+			<pages>1 -</pages>
+			<volume>60</volume>
+			<issue>2</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>Apr 1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>0022-2429</isbn>
+				<urls>
+						<web-urls>
+								<url>http://www.jstor.org/stable/1251927</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>29547</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Suh, Tongwoo</author>
+						<author>Shuetz, Christian G.</author>
+						<author>Johanson, Chris-Ellyn</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Family structure and initiating non-medical drug use among adolescents</title> 
+		        	<secondary-title>Journal of Child and Adolescent Substance Abuse</secondary-title>
+			</titles>
+			<pages>21-36</pages>
+			<volume>5</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>1067-828X</isbn>
+			<electronic-resource-num>10.1300/J029v05n03_02</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1300/J029v05n03_02</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>34398</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Parker, K.D.</author>
+						<author>Calhoun, T.</author>
+						<author>Minor, J.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Predictors of alcohol use among African American adolescents in urban settings</title> 
+		        	<secondary-title>Challenge: A Journal of Research on African American Men</secondary-title>
+			</titles>
+			<pages>45-54</pages>
+			<volume>7</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>1996</date>
+				</pub-dates>
+			</dates>
+			<isbn>1077-193X</isbn>
+		</record>
+		 <record>
+			<rec-number>34385</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Johnson, R.A.</author>
+						<author>Hoffmann, J.P.</author>
+						<author>Gerstein, D.R.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Relationship between family structure and adolescent substance use</title> 
+			</titles>
+			<dates>
+				<year>1996</year>
+				<pub-dates>
+					<date>1996</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration, Office of Applied Studies</publisher>
+				<urls>
+						<web-urls>
+								<url>http://oas.samhsa.gov/analytic.htm#Special</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>6027</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Centers for Disease Control</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Indicators of nicotine addiction among women--United States, 1991-1992</title> 
+		        	<secondary-title>Morbidity and Mortality Weekly Report</secondary-title>
+			</titles>
+			<pages>102-105</pages>
+			<volume>44</volume>
+			<issue>6</issue>
+			<dates>
+				<year>1995</year>
+				<pub-dates>
+					<date>Feb 17, 1995</date>
+				</pub-dates>
+			</dates>
+			<isbn>0149-2195</isbn>
+		</record>
+		 <record>
+			<rec-number>22832</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Nelson, David E.</author>
+						<author>Giovino, Gary A.</author>
+						<author>Shopland, Donald R.</author>
+						<author>Mowery, Paul D.</author>
+						<author>Mills, Sherry L.</author>
+						<author>Eriksen, Michael P.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in cigarette smoking among US adolescents, 1974 through 1991</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>34-40</pages>
+			<volume>85</volume>
+			<issue>1</issue>
+			<dates>
+				<year>1995</year>
+				<pub-dates>
+					<date>Jan 1995</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.85.1.34</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.85.1.34</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>34059</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Everingham, Susan M. Sohler</author>
+						<author>Rydell, C. Peter</author>
+						<author>Caulkins, Jonathan P.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Cocaine consumption in the United States: Estimating past trends and future scenarios</title> 
+		        	<secondary-title>Socio-Economic Planning Sciences</secondary-title>
+			</titles>
+			<pages>305-314</pages>
+			<volume>29</volume>
+			<issue>4</issue>
+			<dates>
+				<year>1995</year>
+				<pub-dates>
+					<date>Dec 1995</date>
+				</pub-dates>
+			</dates>
+			<isbn>0038-0121</isbn>
+			<electronic-resource-num>10.1016/0038-0121(95)00018-6</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1016/0038-0121(95)00018-6</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>16249</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Kaestner, Robert</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>New estimates of the effect of marijuana and cocaine use on wages</title> 
+		        	<secondary-title>Industrial and Labor Relations Review</secondary-title>
+			</titles>
+			<pages>454-470</pages>
+			<volume>47</volume>
+			<issue>3</issue>
+			<dates>
+				<year>1994</year>
+				<pub-dates>
+					<date>Apr 1994</date>
+				</pub-dates>
+			</dates>
+			<isbn>0019-7939</isbn>
+				<urls>
+						<web-urls>
+								<url>http://www.jstor.org/stable/2524977</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>34484</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Robertson, Elizabeth B.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Trends in Drug Use: A Comparison of Metropolitan and Nonmetropolitan Areas of the United States from 1975 to 1991</title> 
+		        	<secondary-title>Family Economics Review</secondary-title>
+			</titles>
+			<pages>2-10</pages>
+			<volume>7</volume>
+			<issue>4</issue>
+			<dates>
+				<year>1994</year>
+				<pub-dates>
+					<date>1994</date>
+				</pub-dates>
+			</dates>
+			<isbn>0425-676X</isbn>
+		</record>
+		 <record>
+			<rec-number>180</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>(author unknown)</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Household Survey on Drug Abuse: Main Findings 1991</title> 
+		        	<secondary-title>National Household Survey on Drug Abuse Series</secondary-title>
+			</titles>
+			<issue>(SMA) 93-1980</issue>
+			<dates>
+				<year>1993</year>
+				<pub-dates>
+					<date>1993</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>United States Department of Health and Human Services, Substance Abuse and Mental Health Services Administration</publisher>
+		</record>
+		 <record>
+			<rec-number>11499</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Gfroerer, J.C.</author>
+						<author>Brodsky, M.D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Frequent cocaine users and their use of treatment</title> 
+		        	<secondary-title>American Journal of Public Health</secondary-title>
+			</titles>
+			<pages>1149-1154</pages>
+			<volume>83</volume>
+			<issue>8</issue>
+			<dates>
+				<year>1993</year>
+				<pub-dates>
+					<date>Aug 1993</date>
+				</pub-dates>
+			</dates>
+			<isbn>0090-0036</isbn>
+			<electronic-resource-num>10.2105/AJPH.83.8.1149</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.2105/AJPH.83.8.1149</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>25617</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Rhodes, William</author>
+						<author>Scheiman, Paul</author>
+						<author>Carlson, Kenneth</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>What America&#039;s Users Spend on Illegal Drugs, 1988-1991</title> 
+			</titles>
+			<dates>
+				<year>1993</year>
+				<pub-dates>
+					<date>1993</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>United States Office of National Drug Control Policy</publisher>
+		</record>
+		 <record>
+			<rec-number>32848</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Yesalis, Charles E.</author>
+						<author>Kennedy, Nancy J.</author>
+						<author>Kopstein, Andrea N.</author>
+						<author>Bahrke, Michael S.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Anabolic-androgenic steroid use in the United States</title> 
+		        	<secondary-title>JAMA, The Journal of the American Medical Association</secondary-title>
+			</titles>
+			<pages>1217-1221</pages>
+			<volume>270</volume>
+			<issue>10</issue>
+			<dates>
+				<year>1993</year>
+				<pub-dates>
+					<date>Sep 8, 1993</date>
+				</pub-dates>
+			</dates>
+			<isbn>0098-7484</isbn>
+			<electronic-resource-num>10.1001/jama.270.10.1217</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1001/jama.270.10.1217</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>13483</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Harrison, Lana</author>
+						<author>Gfroerer, Joseph</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The intersection of drug use and criminal behavior: Results from the National Household Suvey on Drug Abuse</title> 
+		        	<secondary-title>Crime and Delinquency</secondary-title>
+			</titles>
+			<pages>422-443</pages>
+			<volume>38</volume>
+			<issue>4</issue>
+			<dates>
+				<year>1992</year>
+				<pub-dates>
+					<date>Oct 1992</date>
+				</pub-dates>
+			</dates>
+			<isbn>0011-1287</isbn>
+			<electronic-resource-num>10.1177/0011128792038004002</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1177/0011128792038004002</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>15016</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Hughes, A.L.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>The prevalence of illicit drug use in six metropolitan areas in the United States: Results from the 1991 National Household Survey on Drug Abuse</title> 
+		        	<secondary-title>British Journal of Addiction</secondary-title>
+			</titles>
+			<pages>1481-1485</pages>
+			<volume>87</volume>
+			<issue>10</issue>
+			<dates>
+				<year>1992</year>
+				<pub-dates>
+					<date>Oct  1992</date>
+				</pub-dates>
+			</dates>
+			<isbn>0952-0481</isbn>
+			<electronic-resource-num>10.1111/j.1360-0443.1992.tb01927.x</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1111/j.1360-0443.1992.tb01927.x</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>33734</rec-number>
+			<ref-type name="Book Section"></ref-type>
+			<contributors>
+				<authors>
+						<author>Skinner, W.</author>
+						<author>Otis, M.D.</author>
+				</authors>
+					<secondary-authors>
+							<author>Kelly, Jill</author>
+					</secondary-authors>
+			</contributors>
+			<titles>
+				<title>Drug Use among Lesbian and Gay People: Findings, Research Design, Insights, and Policy Issues from the Trilogy Project</title> 
+		        	<secondary-title>The Research Symposium on Alcohol and Other Drug Problem Prevention Among Lesbians and Gay Men, Proceedings</secondary-title>
+			</titles>
+			<dates>
+				<year>1992</year>
+				<pub-dates>
+					<date></date>
+				</pub-dates>
+			</dates>
+			<pub-location>Sacramento, CA</pub-location>
+			<publisher>EMT Group</publisher>
+		</record>
+		 <record>
+			<rec-number>185</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>(author unknown)</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Household Survey on Drug Abuse: Population Estimates 1991</title> 
+		        	<secondary-title>National Household Survey on Drug Abuse Series</secondary-title>
+			</titles>
+			<issue>(ADM) 92-1887</issue>
+			<dates>
+				<year>1991</year>
+				<pub-dates>
+					<date>1991</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>United States Department of Health and Human Services, ADAMHA</publisher>
+		</record>
+</records>
